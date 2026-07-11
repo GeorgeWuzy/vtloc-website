@@ -1,2 +1,1 @@
-# vtloc-website
-Website of VTLoc
+# VTLoc
